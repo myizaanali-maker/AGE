@@ -1,0 +1,6 @@
+{
+  "name": "AGE - Alam's Gazette Extractor",
+  "description": "Karnataka Gazette land acquisition notifications browser with search, dashboard metrics, 18-column table view, and village-wise parcel summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
